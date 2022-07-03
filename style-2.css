@@ -6,3 +6,8 @@
 h1{
     color:gold;
 }
+.container .container_h2{
+    font-weight: bold;
+    font-size: 30px;
+    color:darkblue;
+}
